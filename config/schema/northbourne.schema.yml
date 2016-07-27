@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the northbourne theme.
+
+northbourne.settings:
+  type: theme_settings
+  label: 'northbourne settings'
